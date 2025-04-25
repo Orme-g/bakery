@@ -1,0 +1,3 @@
+Useragent: *
+Disallow: 
+Host: www.boolkabakery.ru
