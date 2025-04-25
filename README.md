@@ -1,1 +1,2 @@
-First project made only with CSS
+First project. Made only with CSS & HTML
+jQuery library used for smooth scrolling.
